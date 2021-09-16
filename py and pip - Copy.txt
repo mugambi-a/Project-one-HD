@@ -1,0 +1,4 @@
+https://www.python.org/downloads/
+py -m pip --version
+py -m ensurepip --default-pip
+py -m pip install --upgrade pip setuptools wheel
